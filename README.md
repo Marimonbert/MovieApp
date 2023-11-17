@@ -1,2 +1,3 @@
 # MovieApp
-This project is for aprimory my conheciments in kotlin with Jetpack Compose. 
+This project aims to improve my knowledge of Kotlin with Jetpack Compose.
+Implementing the MVVM and CLEAN Code architecture patterns.
