@@ -8,7 +8,7 @@ import br.com.movieapp.movie_popular_feature.domain.repository.MoviePopularRepos
 import br.com.movieapp.movie_popular_feature.domain.source.MoviePopularRemoteDataSource
 import kotlinx.coroutines.flow.Flow
 
-class MoviePopularRemoteDataSource constructor(
+class MoviePopularRepositoryImpl constructor(
     private val remoteDataSource: MoviePopularRemoteDataSource
 ): MoviePopularRepository {
 
